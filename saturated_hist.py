@@ -1,3 +1,4 @@
+'''Routine to create 2d and 1d histograms, like those in Fig.5 & 7 and 9 & 10 in the final report'''
 import sys
 sys.path.append('C:\Users\Stefi\AppData\Local\lxss\home\slm86\analysis')
 import numpy as np
